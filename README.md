@@ -1,7 +1,6 @@
 ## Project Title: Study Space Finder
 
-### Team Members:
-- Satyajit Das
+
 
 ### Introduction:
 
